@@ -1,0 +1,14 @@
+buy monkeys
+add soup
+add tangerines
+add turnips
+add milk
+add apples
+add bread
+buy apples
+buy bread
+buy milk
+buy soup
+buy tangerines
+buy turnips
+buy apples
